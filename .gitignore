@@ -1,0 +1,15 @@
+# Wi-Fi credentials / local configuration
+secrets.h
+**/secrets.h
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Robot telemetry datasets
+*.csv
+
+# IDE / OS files
+.vscode/
+.DS_Store
+Thumbs.db
